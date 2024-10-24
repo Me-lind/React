@@ -1,4 +1,4 @@
-import ShoeDetails from './components/shoedetails'
+import ShoeDetails from './components/shoeDetails'
 import ShoeType from './components/shoeType'
 import ProductsWrapper from './components/productsWrapper'
 import ShoeImage from './assets/shoe2.jpeg';
